@@ -1,0 +1,17 @@
+/* 
+선택자 {
+    속성1 : 속성값;
+    속성2 : 송성값;
+}
+*/
+
+#area1{
+    width: 500px;
+    height: 300px;
+    border: 2px solid green;
+    background-color: aqua;
+}
+
+.test{
+    font-size: 20pt;
+}
